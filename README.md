@@ -55,6 +55,7 @@ Quora (quora.com)\
 San Francisco Chronicle (sfchronicle.com)\
 Scientific American (scientificamerican.com)\
 SunSentinel (sun-sentinel.com)\
+Tech in Asia (techinasia.com)\
 The Advocate (theadvocate.com.au)\
 The Age (theage.com.au)\
 The Australian (theaustralian.com.au)\
